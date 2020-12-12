@@ -1,0 +1,4 @@
+A feladathoz használt programok:
+Phython 3.8
+Visual Studio Code 1.52.0
+PySimpleGUI
