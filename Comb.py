@@ -1,4 +1,4 @@
-#A GUI-hoz PySimpleGui-t használtam. Ennek telepíéséhez az alábbit kell a Terminal ablakban beírni és futtatni: python -m pip install pysimplegui
+#A GUI-hoz PySimpleGui-t használtam. Ennek telepítéséhez az alábbit kell a Terminal ablakban beírni és futtatni: python -m pip install pysimplegui
 
 import PySimpleGUI as sg
 
