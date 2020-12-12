@@ -1,2 +1,2 @@
 # GUI
-Grafikus felhasználói kezelfőelület létrehozása Pythonnal
+Grafikus felhasználói kezelőfelület létrehozása Pythonnal
