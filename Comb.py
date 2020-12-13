@@ -5,7 +5,7 @@ import PySimpleGUI as sg
 layout = [[sg.Text("Üdvözlünk a comb adagolóban!")], [sg.Button("Libacomb adagoló"), sg.Button("Kacsacomb adagoló"), sg.Button("Csirkecomb adagoló")], [sg.Button("Jóllaktam")]]
 
 # Ablak létrehozása
-window = sg.Window("COMBADAGOLO", layout)
+window = sg.Window("COMBADAGOLÓ", layout)
 
 # Event loop\eseménykezelő ciklus létrehozása
 while True:
