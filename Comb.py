@@ -21,3 +21,5 @@ while True:
     elif event == "Csirkecomb adagoló":
         sg.popup('Kapsz egy csirkecombot!')    
 window.close()
+#kommentet hagyunk ittend.
+#ujabb komment, a csirkecomb finom.
